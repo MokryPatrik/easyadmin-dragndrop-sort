@@ -16,9 +16,9 @@
   },
   "require": {
     "php": "~8.1.0",
-    "symfony/framework-bundle": "^4.3",
-    "easycorp/easyadmin-bundle": "^2.0",
-    "gedmo/doctrine-extensions": "^2.4"
+    "symfony/framework-bundle": "^6.*",
+    "easycorp/easyadmin-bundle": "^4.*",
+    "gedmo/doctrine-extensions": "^3.*"
   },
   "extra": {
     "branch-alias": {
